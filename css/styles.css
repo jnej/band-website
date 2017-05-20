@@ -6,13 +6,19 @@
 
 .sidebar {
   float: left;
-  width: 30%;
+  width: 25%;
   color: white;
   background-color: #1d1d1f;
   text-align: left;
+  border: 15px solid white;
+  padding: 15px;
+  margin: 10px;
 }
 
 .main {
 font-family: sans-serif;
 color: #1d1d1f;
+border: 15px solid white;
+padding: 5px;
+margin: 10px;
 }
